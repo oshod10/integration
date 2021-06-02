@@ -1,0 +1,15 @@
+########### EXTERNAL VALUES ############
+URL_ADDRESS;
+ER_HTML_PAGE;
+CUSTOM_21_AP;
+CUSTOM_22_BULK;
+CUSTOM_23_DISC;
+
+############ NETWORK ELEMENTS ############
+LDAP;magapi.tls-onload.tflpp.co.uk;80
+GEOMANT;;
+CSS-PS;sbsctestepaycapita.tls-onload.tflpp.co.uk;80
+CPS-BAVS;ncscqaepaycapita.tls-onload.tflpp.co.uk;80
+BIZTALK;biztalkapi.tls-onload.tflpp.co.uk;80
+
+
