@@ -1,0 +1,7 @@
+1 - integration.sh is the main script to carry out task.
+2 - points.csv is the file that contains integration points details.
+3 - env.cfg is the configuration file wich contains the global variables and is referenced by the .sh file.
+4 - create a directory mkdir -p /home/oracle/automation/integration and place all 3 files inside this directory.
+5 - make sure the files' owner is oracle and exec permission is given to the .sh file for user. Remaining files must have at least read priv.
+6 - make necessary changes to the points.csv file and then run the integration.sh ./integration.
+7 - never touch env.cfg unless the script is supposed to run on a DB version other than 19c.
